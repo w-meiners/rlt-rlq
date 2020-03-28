@@ -1,0 +1,7 @@
+*.tex
+*.log
+*.dvi
+*.aux
+.DS_Store
+
+
