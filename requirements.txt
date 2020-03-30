@@ -1,4 +1,5 @@
 matplotlib
 numpy
 pandas
-
+sympy
+git+https://github.com/wolfgang-302/fun-expr.git@master#egg=fun_expr
